@@ -20,12 +20,13 @@ Step 2:
 7. Select the excel file
 
 Functionalities:
-1.Month selector
-2.Background color of the calendar
-3.Header’s color selector of the session
-4.Header and footer’s color selector of date card
-6.Color selector of date and location
-5.Data input directly via excel sheet
+
+1. Month selector
+2. Background color of the calendar
+3. Header’s color selector of the session
+4. Header and footer’s color selector of date card
+6. Color selector of date and location
+5. Data input directly via excel sheet
 
 Note- Date card’s background image can be changed via excel sheet by setting the URL of the image. For local custom image, set the path of the image in excel file.
 
